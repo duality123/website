@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WEBSITE SISTEM INFORMASI KELAUTAN</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+    .container {
+        margin-top: 30px;
+    }
+
+
+
+    body{
+      background-image: url("background123.png");;
+      background-size: cover;
+       background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+   ;
+
+    }
+    .dropdown-toggle,
+    .dropdown-menu {
+        border-radius: 0px !important;
+    }
+    .dropdown-item:hover {
+        color: white;
+        background-color: #dc3545;
+    }
+    .btn-danger {
+        width: 55%;
+    }
+   
+    .nav-link:hover,.nav-item:hover{
+       color: white!important;
+        background-color: #dc3545;
+    }
+
+    .btn{
+      background-color: #dc3545;
+      border:0px;
+    }
+
+   
+    .carousel-caption{
+      opacity:0;
+    }
+   p.carousel-caption {
+      
+      
+    }
+
+    .carousel-control-prev{
+      opacity: 0;
+    }
+
+.fotcont{
+  margin: 0px;
+  padding: 0px;
+}
+
+</style>
+
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white">
+  <a class="navbar-brand" href="#"><img src=logo.jpeg alt="compact logo" width="150"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item  ">
+        <a class="nav-link" href="homeBaru.html">Beranda <span class="sr-only">(current)</span></a>
+      </li>
+     <li class="nav-item dropdown ">
+        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Profil
+        </a>
+        <div class="dropdown-menu  " aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="Sejarah1.html">Sejarah</a>
+          <a class="dropdown-item" href="visimizi.html">Visi Misi</a>
+          <a class="dropdown-item" href="strukturorgs.html">Struktur Organisasi</a>
+          <a class="dropdown-item" href="#">Dosen</a>
+        </div>
+         </li>
+       <li class="nav-item dropdown ">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Akademik
+        </a>
+        <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="#">Kurikulum</a>
+          <a class="dropdown-item" href="#">Laboratorium</a>
+         </li>
+      <li class="nav-item ">
+        <a class="nav-link" href="#">Akreditasi <span class="sr-only">(current)</span></a>
+      </li>
+         </li>
+      <li class="nav-item ">
+        <a class="nav-link" href="#">FAQ <span class="sr-only">(current)</span></a>
+      </li>
+       <li class="nav-item ">
+        <a class="nav-link" href="#">Himataska <span class="sr-only">(current)</span></a>
+      </li>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<img src="cekfast.jpg" width="1500" height="300">
+
+<div class="container-fluid text-white " style="background-color: #dc3545; margin-top:0px; padding: 20px">
+
+  <h1 >Frequently Asked Questions (FAQ)</h1>
+<p> Home / FAQ</p></div>
+<div class="container-fluid text-white " style="background: rgba(65, 79, 102, 0.8); margin-top:0px; padding: 50px">
+ <p>Temukan jawaban dari berbagai pertanyaan yang sering diajukan seputar Program Studi Sistem Informasi Kelautan (SIK)  UPI oleh calon pendaftar dan calon mahasiswa.
+
+===========================================================================================
+
+Q : Apa saja yang dipelajari di Sistem Informasi Kelautan?
+
+A : Belajar Sistem Informasi, Sistem Informasi Geografi, Kelautan, dan Perikanan.
+
+===========================================================================================
+
+Q : Apa anak SMK/IPS bisa masuk prodi Sistem Informasi Kelautan?
+
+A : Anak IPS tidak bisa, yang bisa masuk ke prodi Sistem Informasi Kelautan (SIK) adalah IPA dan SMK Jurusan tertentu. Jurusan SMK yang bisa masuk ke prodi SIK adalah Teknik Geomatika dan Geospasial, Teknik Komputer dan Informatika, Pelayaran Kapal Penangkap Ikan, Perikanan, dan Pengolahan Hasil Perikanan.
+
+===========================================================================================
+
+Q : Apakah harus bisa berenang untuk masuk prodi Sistem Informasi Kelautan?
+
+A : Tidak harus, nanti akan ada mata kuliah renang  untuk melatih mahasiswa berenang.
+
+===========================================================================================
+
+Q : Bagaimana cara masuk prodi Sistem Informasi Kelautan?
+
+A : Mengikuti seleksi SNMPTN, SBMPTN, Mandiri UPI, dan Prestasi Mahasisiswa.
+
+===========================================================================================
+
+Q : Berapa passing grade masuk SIK?
+
+A : Universitas Pendidikan Indonesia selama ini tidak pernah merilis secara resmi passing grade minimal atau maksimal sebagai syarat kelulusan.
+
+===========================================================================================
+
+Q : Apa saja fasilitas di SIK?
+
+A : Laboratorium Komputer, Laboratorium sumber daya kelautan, Marine station Lontar, Lab Bahasa, perpustakaan dengan buku dan jurnal kelautan dan perikanan, ruang kuliah ber AC dan terkoneksi dengan Wifi.
+
+===========================================================================================
+
+Q : Apakah ada asrama untuk mahasiswa? Berapa kira-kira biayanya?
+
+A : Universitas Pendidikan Indonesia Kampus Daerah Serang memiliki asrama dengan kuota 10 orang untuk SIK. Biaya Rp. 2.000.000/tahun/mahasiswa dan dapat dicicil 2 x dalam setahun.
+
+===========================================================================================
+
+Q : Bagaimana peluang kerja setelah lulus?
+
+A : Lulusan dapat bekerja di Kementerian/Lembaga/Badan pemerintahan seperti KKP, KEMENKO MARITIM, KLHK, LIPI, BMKG, LAPAN, BIG, BAKAMLA. Swasta seperti Konsultan Lingkungan, NGO, WWF, TNC, WCS, CSF, WRI, dan lain lain.
+
+=========================================================================================</p>
+  
+
+</div>
+<footer class="bg-dark  text-white">
+  <div class="fotcont">
+  <div class="row ">
+
+    <div class="col-md-4" style="padding-left: 40px;" >
+      <h2>Alamat</h2>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.0370422558067!2d106.14447451443691!3d-6.125717661769271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418adaa4f7f563%3A0x950ec58123df8596!2sUniversitas%20Pendidikan%20Indonesia%20(UPI)%20Kampus%20Serang!5e0!3m2!1sen!2sid!4v1633801460279!5m2!1sen!2sid" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  <p>Jl. Ciracas No.38, Serang, Kec. Serang, Kota Serang, Banten 42116</p>
+</iframe>
+</div>
+
+  <div class="col-md-4">
+ <h2>Sistem Informasi Kelautan</h2>
+ <p>Program Studi Sistem Informasi Sistem Kelautan merupakan bagian dari Ilmu Kelautan yang fokus pada analisis data kelautan baik numerik maupun spasial untuk kemudian diintegrasikan berbasis sistem informasi yang dikembangkan sebagai dasar pengambilan keputusan. Bidang kajian dari prodi SIK terdiri dari Ilmu Kelautan, Ilmu Perikanan, Sistem Informasi, Sistem Informasi Geografis, serta Penginderaan Jauh Keluatan dan Ilmu Kelautan. Pembelajaran di SIK selain dilaksanakan di ruang kelas juga dilaksanakan di laboratorium, e-learning, field study ke pesisir dan laut. Pembelajaran di SIK dilaksanakan oleh dosen SIK dan dosen dari Kampus UPI Serang serta para praktisi dan profesional di bidangnya.</p>
+  
+ </div>
+
+  <div class="social">
+  <h1> Follow US</h1>
+    <a href="#" id="share-wa" class="sharer button"><i class="fa fa-3x fa-whatsapp"></i></a>
+<a href="#" id="share-fb" class="sharer button"><i class="fa fa-3x fa-facebook-square"></i></a>
+<a href="#" id="share-li" class="sharer button"><i class="fa fa-3x fa-linkedin-square"></i></a>
+  <a href="#" id="share-em" class="sharer button"><i class="fa fa-3x fa-envelope-square"></i></a>
+</div>
+
+  </div>
+</div>
+  </div>
+  <div class="text-center p-3" style="background-color: #dc3545">
+    © 2020 Copyright:
+    <a class="text-white" href="https://mdbootstrap.com/">Universitas Pendidikan Indonesia</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function (){
+    $('.navbar-nav > li').each(function(){
+        var t = null;
+        var li = $(this);
+        li.hover(function(){
+            t = setTimeout(function(){
+                li.find("div").slideDown(300);
+                t = null;
+            }, 300);
+        }, function(){
+            if (t){
+                clearTimeout(t);
+                t = null;
+            }
+            else
+                li.find("div").slideUp(200);
+        });
+    });
+});
+
+
+</script>
+
+</body>
+</html>
